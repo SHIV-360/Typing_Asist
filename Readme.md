@@ -1,4 +1,4 @@
-# Typing Speed Trainer - README
+# Speed Typing Trainer - README
 
 ## Overview
 This project is a Typing Speed Trainer application built using Python and Tkinter for graphical user interface (GUI) development. The application is designed to help users improve their typing speed and accuracy by presenting random sentences based on difficulty levels and a set time limit. The application tracks the user's typing performance and provides a summary of typing metrics once the time is up. It also allows users to analyze their progress after 21 days using an external analysis script.
