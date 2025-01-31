@@ -37,7 +37,7 @@ Since Tkinter comes pre-installed with Python, no additional installation is nec
 To run the Typing Speed Trainer, simply run the following command in your terminal or command prompt:
 
 ```bash
-python typing_speed_trainer.py
+python final.py
 ```
 
 This will launch the main application window.
