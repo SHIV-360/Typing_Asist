@@ -94,7 +94,3 @@ This project is open-source. You can modify and distribute it under the terms of
 - **Tkinter**: For creating the graphical user interface.
 - **Pandas**: For handling CSV data and making data analysis simple.
 - **Python**: For making this application possible.
-
----
-
-Feel free to customize the README further based on any additional features or specific instructions you'd like to include for users.
